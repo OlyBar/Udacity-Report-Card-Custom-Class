@@ -51,7 +51,6 @@ public class ReportCard {
 
     public String assignGrade(int mark){
 
-
         String grade;
 
         if(mark > 79 && mark < 101){
@@ -97,6 +96,5 @@ public class ReportCard {
 
         return remark;
     }
-
-
+    
 }
